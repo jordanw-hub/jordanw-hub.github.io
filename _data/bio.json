@@ -6,10 +6,10 @@
     "email": "jordanww@hawaii.edu",
     "website": "https://jordanw-hub.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2026.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "jordanw-hub", "url": "http://github.com/jordanw-hub" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" }
+      { "network": "linkedin", "username": "jordan-wong-914320381", "url": "https://www.linkedin.com/mwlite/profile/in/jordan-wong-914320381" }
     ]
   },
   "interests": [
