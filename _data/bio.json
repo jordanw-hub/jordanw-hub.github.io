@@ -31,7 +31,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2026)",
       "studyType": "B.S.",
       "startDate": "2025-08-25",
       "endDate": "Present",
@@ -42,6 +42,11 @@
       "institution": "Kapiolani Community College, Honolulu, HI",
       "area": "Computer Science",
       "courses": [
+        "ICS 111",
+        "ICS 141",
+        "ICS 211",
+        "ICS 212",
+        "ICS 241"
       ]
     }
   ],
@@ -57,7 +62,7 @@
         "Maintain, update, and oversee official college newspaper website",
         "Drive, design and build student-community projects for UH Manoa"
       ]
-    },
+    }
     
   ],
   "volunteer": [
