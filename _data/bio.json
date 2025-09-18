@@ -13,9 +13,7 @@
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
     { "name": "Quantum Computing" },
-    { "name": "Robotics" },
     { "name": "3D Graphics" }
   ],
   "skills": [
@@ -25,7 +23,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++" ]
+      "keywords": [ "MacOS", "Windows", "Git/GitHub", "g++" ]
     }
   ],
   "education": [
